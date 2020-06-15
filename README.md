@@ -1,3 +1,3 @@
 # Chrome Extension example
 
-https://shiffman.net/a2z/chrome-ext/
+Help from: https://shiffman.net/a2z/chrome-ext/
